@@ -1,0 +1,50 @@
+{
+  "vapes": [
+
+    {
+      "category": "30K Dual",
+      "price": "15€",
+      "items": [
+        "Watermelon Ice / Strawberry Mango",
+        "Strawberry Watermelon / Kiwi Passion Fruit",
+        "Blueberry Ice / Black Dragon Ice",
+        "Blueberry Raspberry / Peach Mango"
+      ]
+    },
+
+    {
+      "category": "35K Dual",
+      "price": "16€",
+      "items": [
+        "Blue Razz Ice / Juicy Peach Ice",
+        "Strawberry Watermelon / Watermelon Ice",
+        "Triple Berry Ice / Tropical Fruit",
+        "Mango On Lime / Cool Mint",
+        "Cherry Pop / Mr Blue",
+        "Kiwi Passion Fruit Guava / Blue Cherry Lemon",
+        "Black Dragon Ice / Strawberry Kiwi"
+      ]
+    },
+
+    {
+      "category": "Bang King 40K",
+      "price": "16€",
+      "items": [
+        "Watermelon Bubblegum",
+        "Mango Peach Watermelon"
+      ]
+    },
+
+    {
+      "category": "Bang King 40K Dual",
+      "price": "18€",
+      "items": [
+        "Black Dragon Ice / Red Bull",
+        "Tropical Fruits / Triple Watermelon",
+        "Summer Time / Apple Ice",
+        "Marys Dream / Mango Melon Ice"
+      ]
+    }
+
+  ]
+}
